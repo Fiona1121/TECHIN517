@@ -1,3 +1,0 @@
-[submodule "fetch_ws/src/fetch-picker"]
-	path = fetch_ws/src/fetch-picker
-	url = https://github.com/robotic-picker-sp22/fetch-picker.git
